@@ -7,9 +7,6 @@ A **Library Management System** built with **React** (frontend) and **Spring Boo
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Frontend Setup](#frontend-setup)
-- [Backend Setup](#backend-setup)
-- [API Endpoints](#api-endpoints)
-- [Assumptions & Additional Features](#assumptions--additional-features)
 
 ---
 
